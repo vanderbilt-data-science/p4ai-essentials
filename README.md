@@ -35,6 +35,7 @@ To get the most out of this crash course in Python:
 * Actively participate in breakout rooms
 * Perform homework assignments before coming to class the next day
 * Relax your mind and ask questions
+* Let us know how you are doing using Fastcups at https://cups.fast.ai/vanderbilt-ai-summer!
 
 ## Workshop Schedule
 **Day 1**  
@@ -58,6 +59,11 @@ During these workshops, we'll have a number of breakout rooms where you'll work 
 
 https://docs.google.com/document/d/12csRB2CAD8jXZQdK5eLz8p52g9KfdoLFo2qRFTFCRDI/edit?usp=sharing
 
+## Using Fastcup
+During a live session, open https://cups.fast.ai/vanderbilt-ai-summer and click on the green, yellow, or red cup to indicate how you are doing! 
+![image](https://user-images.githubusercontent.com/5521243/167642290-eedee6b6-d179-4fe6-94a4-6383f772afea.png)
+
+
 ## Workshop Video Recordings
 Video recordings of these workshops can be found at the links below:
 
@@ -75,4 +81,5 @@ A number of examples will be left to the reader.  Please complete these assignme
 - [Programming with Python, Software Carpentries](https://swcarpentry.github.io/python-novice-inflammation/)  
 - [Introduction to Python (Datacamp Youtube Playlist)](https://www.youtube.com/watch?v=-Rf4fZDQ0yw&list=PLjgj6kdf_snaw8QnlhK5f3DzFDFKDU5f4)
 - [Introduction to Python (freeCodeCamp.org)](https://www.youtube.com/watch?v=rfscVS0vtbw)
+-  Fastcups https://cups.fast.ai/vanderbilt-ai-summer (to be used synchronously during class)
 
