@@ -67,7 +67,7 @@ During a live session, open https://cups.fast.ai/vanderbilt-ai-summer and click 
 ## Workshop Video Recordings
 Video recordings of these workshops can be found at the links below:
 
-- Day 1: [To be released]
+- Day 1: https://vanderbilt.zoom.us/rec/share/wxxql2gdDF9ca-8Q62jiIt9BMTXulQURZWAxNpPKdndYI-Cv5yU2Sn0vaSrmyFZ8.20ynJHLntsy0lG-2
 - Day 2: [To be released]
 - Day 3: [To be released]
 
