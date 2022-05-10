@@ -59,9 +59,10 @@ During these workshops, we'll have a number of breakout rooms where you'll work 
 
 https://docs.google.com/document/d/12csRB2CAD8jXZQdK5eLz8p52g9KfdoLFo2qRFTFCRDI/edit?usp=sharing
 
-## Using Fastcup
+## Using Fastcups
 During a live session, open https://cups.fast.ai/vanderbilt-ai-summer and click on the green, yellow, or red cup to indicate how you are doing! 
-![image](https://user-images.githubusercontent.com/5521243/167642290-eedee6b6-d179-4fe6-94a4-6383f772afea.png)
+
+<img src="https://user-images.githubusercontent.com/5521243/167642290-eedee6b6-d179-4fe6-94a4-6383f772afea.png" width="200" height="100">
 
 
 ## Workshop Video Recordings
