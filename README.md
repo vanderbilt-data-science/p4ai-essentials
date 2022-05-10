@@ -61,8 +61,7 @@ https://docs.google.com/document/d/12csRB2CAD8jXZQdK5eLz8p52g9KfdoLFo2qRFTFCRDI/
 
 ## Using Fastcups
 During a live session, open https://cups.fast.ai/vanderbilt-ai-summer and click on the green, yellow, or red cup to indicate how you are doing! 
-
-<img src="https://user-images.githubusercontent.com/5521243/167642290-eedee6b6-d179-4fe6-94a4-6383f772afea.png" width="200" height="100">
+![image](https://user-images.githubusercontent.com/5521243/167643293-42f5c9c0-8a8e-4ad7-8aaa-07878ad0b6a3.png)
 
 
 ## Workshop Video Recordings
