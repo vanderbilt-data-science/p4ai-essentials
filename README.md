@@ -68,7 +68,7 @@ During a live session, open https://cups.fast.ai/vanderbilt-ai-summer and click 
 Video recordings of these workshops can be found at the links below:
 
 - Day 1: https://vanderbilt.zoom.us/rec/share/wxxql2gdDF9ca-8Q62jiIt9BMTXulQURZWAxNpPKdndYI-Cv5yU2Sn0vaSrmyFZ8.20ynJHLntsy0lG-2
-- Day 2: [To be released]
+- Day 2: https://vanderbilt.zoom.us/rec/share/o9puONghfrw0gdnAWMjO6Y2S2aQquwnEOfqoiSSY4taD9TiZ77pUMf0www130kk0.lx6EghoLA7RMh7aS
 - Day 3: [To be released]
 
 ## Asynchronous (Homework) Assignments
