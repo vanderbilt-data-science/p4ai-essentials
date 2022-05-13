@@ -69,7 +69,7 @@ Video recordings of these workshops can be found at the links below:
 
 - Day 1: https://vanderbilt.zoom.us/rec/share/wxxql2gdDF9ca-8Q62jiIt9BMTXulQURZWAxNpPKdndYI-Cv5yU2Sn0vaSrmyFZ8.20ynJHLntsy0lG-2
 - Day 2: https://vanderbilt.zoom.us/rec/share/o9puONghfrw0gdnAWMjO6Y2S2aQquwnEOfqoiSSY4taD9TiZ77pUMf0www130kk0.lx6EghoLA7RMh7aS
-- Day 3: [To be released]
+- Day 3: https://vanderbilt.zoom.us/rec/share/fU9qzNs-jXmdONVHIVJv43SOaNfYLwtrjSglPlMZXh4RU4gm6eCn-hpe-ZOSp220.4yskOCGVhrJ2m-9i?startTime=1652363795000
 
 ## Asynchronous (Homework) Assignments
 A number of examples will be left to the reader.  Please complete these assignments prior to coming to the next day of the course.  These homework assignments are designed to augment your understanding of Python, enable you to avoid common pitfalls of programming, resolve known areas of ambiguity that often arise in our new learners, and navigate and understand common errors that Python will throw.
